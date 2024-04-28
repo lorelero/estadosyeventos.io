@@ -1,4 +1,4 @@
 Estados y eventos
 8realizado de manera individual)
 
-https://github.com/lorelero/estadosyeventos.io/tree/main
+https://github.com/lorelero/estadosyeventos.io
